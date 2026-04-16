@@ -1,5 +1,0 @@
-senha mongodb
-usuário: phprenato_db_user
-7it7pxhhh53rER6p5
-
-mongodb+srv://phprenato_db_user:7it7pxhh53rER6p5@cluster0.oqqmtru.mongodb.net/?appName=Cluster0
